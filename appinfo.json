@@ -1,0 +1,52 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Edwin Finch (and Max Hostetler)",
+    "longName": "BLKS (Max Edition)",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/impact.ttf",
+                "name": "FONT_IMPACT_24",
+                "type": "font"
+            },
+            {
+                "file": "fonts/impact.ttf",
+                "name": "FONT_IMPACT_18",
+                "type": "font"
+            },
+            {
+                "characterRegex": "[0-9]",
+                "file": "fonts/impact.ttf",
+                "name": "FONT_IMPACT_48",
+                "type": "font"
+            },
+            {
+                "file": "images/background.png",
+                "name": "IMAGE_BASE",
+                "type": "png"
+            },
+            {
+                "file": "images/bt-icon.png",
+                "name": "IMAGE_BT_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/blks-menu.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Max-BLKS",
+    "uuid": "05cfd6f5-bd16-4d25-a902-2f9fe8539872",
+    "versionCode": 1,
+    "versionLabel": "1.00",
+    "watchapp": {
+        "watchface": true
+    }
+}
